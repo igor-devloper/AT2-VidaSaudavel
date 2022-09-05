@@ -342,16 +342,11 @@ footer{
   font-size: 15px !important;
   margin-left: 10px;
 }
-.form-contato  a{
-  color: #E1E1E6 !important;
-  transition: all 0.5s;
-  text-decoration: none !important;
-}
 .form-contato  a:hover{
   color: #81D8F7 !important;
 }
 
-.form-contato  button{
+.form-contato a{
   margin-top: 1rem/* 16px */;
   --tw-bg-opacity: 1;
   background-color: rgb(240 126 6 / var(--tw-bg-opacity));
@@ -367,7 +362,9 @@ footer{
   transition-duration: 150ms;
   border: none;
   width: 100%;
-  color: #fff;
+  color: #E1E1E6 !important;
+  transition: all 0.5s;
+  text-decoration: none !important;
 }
 .form-contato  strong{
   color: #E1E1E6 !important;
