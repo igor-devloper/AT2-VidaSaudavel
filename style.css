@@ -336,6 +336,7 @@ footer{
   border-radius: 0.25rem/* 4px */;
   align-items: center;
   justify-content: center;
+  margin-bottom: 1rem;
 }
 .form-contato p{
   color: #fff !important;
